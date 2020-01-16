@@ -1,0 +1,11 @@
+C:\Users\there\source\repos\PizzaBoxSolution\Storing\bin\Debug\netcoreapp3.1\Storing.deps.json
+C:\Users\there\source\repos\PizzaBoxSolution\Storing\bin\Debug\netcoreapp3.1\Storing.dll
+C:\Users\there\source\repos\PizzaBoxSolution\Storing\bin\Debug\netcoreapp3.1\Storing.pdb
+C:\Users\there\source\repos\PizzaBoxSolution\Storing\obj\Debug\netcoreapp3.1\Storing.csprojAssemblyReference.cache
+C:\Users\there\source\repos\PizzaBoxSolution\Storing\obj\Debug\netcoreapp3.1\Storing.AssemblyInfoInputs.cache
+C:\Users\there\source\repos\PizzaBoxSolution\Storing\obj\Debug\netcoreapp3.1\Storing.AssemblyInfo.cs
+C:\Users\there\source\repos\PizzaBoxSolution\Storing\obj\Debug\netcoreapp3.1\Storing.dll
+C:\Users\there\source\repos\PizzaBoxSolution\Storing\obj\Debug\netcoreapp3.1\Storing.pdb
+C:\Users\there\source\repos\PizzaBoxSolution\Storing\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\there\source\repos\PizzaBoxSolution\Storing\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\there\source\repos\PizzaBoxSolution\Storing\obj\Debug\netcoreapp3.1\Storing.csproj.CopyComplete
