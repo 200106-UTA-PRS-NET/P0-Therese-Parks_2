@@ -1,16 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TPizzaBox.Client.Entities
+namespace PizzaOrder.Domain
 {
     public partial class Customer
     {
-        public int CustomerId { get; set; }
-        public int PizzaStoreId { get; set; }
-        public string First { get; set; }
-        public string Last { get; set; }
-        public string Phone { get; set; }
+        public Customer()
+        {
+            Orders = new HashSet<Orders>();
+        }
 
-        public virtual PizzaStore PizzaStore { get; set; }
+        public static object Console { get; set; }
+        public int CustomerId { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string PhoneNumber { get; set; }
+
+        public virtual ICollection<Orders> Orders { get; set; }
     }
 }

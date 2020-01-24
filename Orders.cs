@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TPizzaBox.Client.Entities
+namespace PizzaOrder.Domain
 {
     public partial class Orders
     {
         public int OrderId { get; set; }
-        public int? PizzaStoreId { get; set; }
-        public int? CustomerId { get; set; }
-        public double? Total { get; set; }
+        public int? StoreStoreId { get; set; }
+        public int? CusCustomerId { get; set; }
 
-        public virtual PizzaStore PizzaStore { get; set; }
+        public virtual Customer CusCustomer { get; set; }
+        public virtual Store StoreStore { get; set; }
     }
 }
